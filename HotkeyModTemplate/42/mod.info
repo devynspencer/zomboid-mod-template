@@ -1,0 +1,15 @@
+id=nor_hotkey_mod_template
+
+name=Hotkey Mod Template
+
+description=A brief summary of the mod, formatted with ISRichTextPanel tags.
+
+url=https://github.com/devynspencer/zomboid-mod-template
+
+poster=poster.png
+
+modVersion=0.0.0
+
+versionMin=42.0.0
+
+versionMax=
